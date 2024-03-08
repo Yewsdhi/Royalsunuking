@@ -6,7 +6,7 @@ class BUTTONS(object):
     [InlineKeyboardButton("Tᴀɢ-Aʟʟ", callback_data="mplus HELP_TagAll"),
     InlineKeyboardButton("Iɴꜰᴏ", callback_data="mplus HELP_Info"),InlineKeyboardButton("Exᴛʀᴀ", callback_data="mplus HELP_Extra")],
     [InlineKeyboardButton("Iᴍᴀɢᴇ", callback_data="mplus HELP_Image"),
-    InlineKeyboardButton("Aᴄᴛɪᴏɴ", callback_data="mplus HELP_Ajkction"),InlineKeyboardButton("Sᴇᴀʀᴄʜ", callback_data="mplus HELP_Search")],    
+    InlineKeyboardButton("Aᴄᴛɪᴏɴ", callback_data="mplus HELP_Action"),InlineKeyboardButton("Sᴇᴀʀᴄʜ", callback_data="mplus HELP_Search")],    
     [InlineKeyboardButton("ғᴏɴᴛ", callback_data="mplus HELP_Font"),
     InlineKeyboardButton("ɢᴀᴍᴇs", callback_data="mplus HELP_Game"),InlineKeyboardButton("Ⓣ-ɢʀᴀᴘʜ", callback_data="mplus HELP_TG")],
     [InlineKeyboardButton("ɪᴍᴘᴏsᴛᴇʀ", callback_data="mplus HELP_Imposter"),
